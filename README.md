@@ -1,6 +1,7 @@
 ## Hi there 👋
-<hr/>
 ### I'm a web developer based in South Korea 🇰🇷
+<hr/>
+
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
