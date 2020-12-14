@@ -1,7 +1,5 @@
 ## Hi there 👋
 ### I'm a web developer based in South Korea 🇰🇷
-<hr/>
-
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
@@ -17,12 +15,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white">
   <img alt="oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" />
+  <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
 </p>
-<p>
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fharry-bro" alt="Hits">
-</p>
+
 <!--
 <img alt="AWS" src="https://img.shields.io/badge/-AWS-4479A1?logo=Amazon-AWS&logoColor=white">
 <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" />
