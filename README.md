@@ -2,7 +2,7 @@
 <h2 align="center">I'm a web developer based in South Korea 🇰🇷</h2>
 <h3 align="center">🤖 Technology Stack 🤖</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="325 " height="325" />
+<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
 
 <h4>PRONTEND</h4>
 <p>
