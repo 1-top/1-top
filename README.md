@@ -12,7 +12,6 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
 </p>
 
 <h4>BACKEND</h4>
