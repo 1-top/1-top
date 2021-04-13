@@ -4,7 +4,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
 
-<h4>PRONTEND</h4>
+<h4>FRONTEND</h4>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
