@@ -20,19 +20,20 @@
   <img alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&logo=spring&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" />
- </p>
+</p>
  
 <h4>DATABASE</h4>
- <p>
+<p>
   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white">
   <img alt="oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" />
   <img alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?&&logo=mysql&logoColor=white"/>
- </p>
+</p>
  
- <h4>Etc</h4>
+<h4>Etc</h4>
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
