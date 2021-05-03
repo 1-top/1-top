@@ -10,7 +10,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 </p>
 
@@ -38,3 +37,5 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
 </p>
+
+<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
