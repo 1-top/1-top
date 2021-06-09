@@ -16,6 +16,7 @@
 <h4>BACKEND</h4>
 <p>
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=java&logoColor=white"/>
+  <img alt="java" src="https://img.shields.io/badge/kotlin-%23ED8B00.svg?&logo=kotlin&logoColor=white"/>
   <img alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&logo=spring&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" />
