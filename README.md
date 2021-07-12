@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&height=230)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=230&text=Hi%20there%20👋&fontAlignY=39)
 
-<h1 align="center">Hi there 👋</h1>
+<!-- <h1 align="center">Hi there 👋</h1> -->
 <h3 align="center">🤖 Technology Stack 🤖</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
@@ -42,4 +42,4 @@
 
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
 
-![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&reversal=true&height=230)
+![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=timeGradient&reversal=true&height=100)
