@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=230&text=Hi%20there%20👋&fontAlignY=39)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=230&fontAlignY=39&text=Hi%20there&desc=I%20am%20Seohyun%20Lee)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
 <h3 align="center">🤖 Technology Stack 🤖</h3>
