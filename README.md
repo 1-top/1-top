@@ -18,7 +18,7 @@
 <h4>BACKEND</h4>
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white"/>
-  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-%23ED8B00.svg?&logo=kotlin&logoColor=white"/>
+  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F53FF.svg?&logo=kotlin&logoColor=white"/>
 <!--   <img alt="spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&logo=spring&logoColor=white"/> -->
     <img alt="spring" src="https://img.shields.io/badge/SpringBoot%20-%236DB33F.svg?&logo=springboot&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" />
