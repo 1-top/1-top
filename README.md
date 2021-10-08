@@ -10,8 +10,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+<!--   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/> -->
+<!--   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/> -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 </p>
 
