@@ -28,13 +28,14 @@
 <h4>DATABASE</h4>
 <p>
 <!--   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white"> -->
-  <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/MySql-%2300f.svg?&&logo=mysql&logoColor=white"/>
+<!--   <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" /> -->
+  <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1.svg?&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 </p>
  
 <h4>Etc</h4>
 <p>
+  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
