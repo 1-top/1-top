@@ -40,7 +40,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+<!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> -->
 </p>
 
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
