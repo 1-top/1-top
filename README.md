@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=timeGradient&height=230&animation=twinkling&fontAlignY=32&text=Hi%20there&desc=I%20am%20Seohyun%20Lee&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=1,6&height=230&animation=twinkling&fontAlignY=32&text=Hi%20there&desc=I%20am%20Seohyun%20Lee&descAlignY=53)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
 <h3 align="center">🤖 Technology Stack 🤖</h3>
@@ -45,4 +45,4 @@
 
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
 
-![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=timeGradient&reversal=true&height=100)
+![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&customColorList=1,6&reversal=true&height=100)
