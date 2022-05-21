@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=1,6&height=230&animation=twinkling&fontAlignY=32&text=Hi%20there&desc=I%20am%20Seohyun%20Lee&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=1,6&height=230&animation=twinkling&fontAlignY=32&text=🎧&desc=FOCUS&descAlignY=53)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
-<h3 align="center">🤖 Technology Stack 🤖</h3>
+<!-- <h3 align="center">🤖 Technology Stack 🤖</h3> -->
 
-<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
+<!-- <img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" /> -->
 
-<h4>FRONTEND</h4>
+###### Frontend
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
@@ -16,7 +17,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 </p>
 
-<h4>BACKEND</h4>
+###### Backend
+
 <p>
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white"/>
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F53FF.svg?&logo=kotlin&logoColor=white"/>
@@ -26,7 +28,8 @@
   <img alt="Django" src="https://img.shields.io/badge/-Django-092e20?logo=django&logoColor=white" />
 </p>
  
-<h4>DATABASE</h4>
+###### Database
+
 <p>
 <!--   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" /> -->
@@ -34,7 +37,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
 </p>
  
-<h4>Etc</h4>
+###### Etc
 <p>
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
@@ -46,4 +49,4 @@
 
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
 
-![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&customColorList=1,6&reversal=true&height=100)
+<!-- ![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&customColorList=1,6&reversal=true&height=100) -->
