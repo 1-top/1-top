@@ -5,10 +5,8 @@
 
 <!-- <img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width=170 height=170 /> -->
 
-<img align="right" alt="most_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=F2EA02&text_color=00FF00&bg_color=252526&hide=html,css,powershell"/>
-
 <!-- ###### Frontend -->
-<p align="left">
+<p align="center">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
@@ -20,7 +18,7 @@
 
 <!-- ###### Backend -->
 
-<p align="left">
+<p align="center">
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white"/>
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F53FF.svg?&logo=kotlin&logoColor=white"/>
 <!--   <img alt="spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&logo=spring&logoColor=white"/> -->
@@ -31,7 +29,7 @@
  
 <!-- ###### Database -->
 
-<p align="left">
+<p align="center">
 <!--   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" /> -->
   <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1.svg?&logo=mysql&logoColor=white"/>
@@ -39,7 +37,7 @@
 </p>
  
 <!-- ###### Etc -->
-<p align="left">
+<p align="center">
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
@@ -48,6 +46,11 @@
 <!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> -->
 </p>
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
+
+<p align="center">
+  <img alt="most_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=F2EA02&text_color=00FF00&bg_color=252526&hide=html,css,powershell"/>
+</p> 
+
 <h2 align="center">🕹</p>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-top%2Fhit-counter&count_bg=%2306D3DF&title_bg=%238468EF&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/>
