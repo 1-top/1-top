@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?&type=waving&color=gradient&customColorList=1,6&height=200&animation=twinkling&fontAlignY=32&text=🎧&desc=FOCUS&descAlignY=53)
+![header](https://capsule-render.vercel.app/api?&type=transparent&color=gradient&customColorList=1,6&height=200&animation=twinkling&fontAlignY=28&text=🎧&desc=FOCUS&descAlignY=53)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
 <!-- <h3 align="center">🤖 Technology Stack 🤖</h3> -->
 
-<!-- <img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" /> -->
+<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
 
 <!-- ###### Frontend -->
 
-<p align="center">
+<p align="left">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white">
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
@@ -19,7 +19,7 @@
 
 <!-- ###### Backend -->
 
-<p align="center">
+<p align="left">
   <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=java&logoColor=white"/>
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-7F53FF.svg?&logo=kotlin&logoColor=white"/>
 <!--   <img alt="spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?&logo=spring&logoColor=white"/> -->
@@ -30,7 +30,7 @@
  
 <!-- ###### Database -->
 
-<p align="center">
+<p align="left">
 <!--   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" /> -->
   <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1.svg?&logo=mysql&logoColor=white"/>
@@ -38,7 +38,7 @@
 </p>
  
 <!-- ###### Etc -->
-<p align="center">
+<p align="left">
   <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
