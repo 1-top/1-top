@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi there 👋</h1> -->
 <!-- <h3 align="center">🤖 Technology Stack 🤖</h3> -->
 
-<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width="300 " height="300" />
+<img align="right" src="https://user-images.githubusercontent.com/67419004/102719141-a2df5000-432f-11eb-8b7a-660f6f332cca.gif" width=170 height=170 />
 
 <!-- ###### Frontend -->
 
