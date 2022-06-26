@@ -48,7 +48,7 @@
 <!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> -->
 </p>
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
-<p align="center">🕹</p>
+<h2 align="center">🕹</p>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-top%2Fhit-counter&count_bg=%2306D3DF&title_bg=%238468EF&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/>
 </p>
