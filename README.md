@@ -48,7 +48,7 @@
 <!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
 
 <p align="center">
-  <img alt="most_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=F2EA02&text_color=00FF00&bg_color=252526&hide=html,css,powershell"/>
+  <img alt="most_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=F2EA02&text_color=fff&bg_color=DEG,A64BF4,2EB3E4&custom_title=🌈 The 4 Most Used Languages 🚀&hide=html,css,powershell"/>
 </p> 
 
 <h2 align="center">🕹</p>
