@@ -14,6 +14,7 @@
 <!--   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&logo=jquery&logoColor=white"/> -->
 <!--   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/> -->
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-101010?logo=next.js&logoColor=white" />
 </p>
 
 <!-- ###### Backend -->
@@ -33,19 +34,20 @@
 <!--   <img alt="Postgresql" src="https://img.shields.io/badge/-postgresql-4479A1?logo=postgresql&logoColor=white"> -->
 <!--   <img alt="oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?&logo=oracle&logoColor=white" /> -->
   <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1.svg?&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+<!--  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" /> -->
 </p>
  
 <!-- ###### Etc -->
 <p align="center">
-  <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img alt="Jira" src="https://img.shields.io/badge/Jira_Software-0052CC?style=flat&logo=Jira-Software&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
 <!--   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> -->
 </p>
-<!-- <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&logo=typescript&logoColor=white"/> -->
+
+<!-- <img alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-efefef?style=flat&logo=apachekafka&logoColor=black"/> -->
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=fffdfa&text_color=fff&bg_color=DEG,A64BF4,2EB3E4&hide=html,css,powershell,javascript"/>
