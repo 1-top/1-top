@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&type=slice&color=gradient&customColorList=1,6&height=200&animation=twinkling&fontAlignY=38&descAlignY=63&fontAlign=90&descAlign=90&text=🎧&desc=FOCUS)
+![header](https://capsule-render.vercel.app/api?&type=slice&color=gradient&customColorList=6&height=200&animation=twinkling&fontAlignY=38&descAlignY=63&fontAlign=90&descAlign=90&text=🎧&desc=FOCUS)
 
 <!-- <h1 align="center">Hi there 👋</h1> -->
 <!-- <h3 align="center">🤖 Technology Stack 🤖</h3> -->
