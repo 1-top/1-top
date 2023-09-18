@@ -50,12 +50,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1-top&langs_count=4&layout=compact&title_color=fffdfa&text_color=fff&bg_color=DEG,A64BF4,2EB3E4&hide=html,css,powershell,javascript"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-seo&langs_count=4&layout=compact&title_color=fffdfa&text_color=fff&bg_color=DEG,A64BF4,2EB3E4&hide=html,css,powershell,javascript"/>
 </p> 
 
 <h2 align="center">🕹</p>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-top%2Fhit-counter&count_bg=%2306D3DF&title_bg=%238468EF&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2-seo%2Fhit-counter&count_bg=%2306D3DF&title_bg=%238468EF&icon=github.svg&icon_color=%23E7E7E7&title=github&edge_flat=false"/>
 </p>
 
 <!-- ![footer](https://capsule-render.vercel.app/api?&section=footer&type=waving&color=gradient&customColorList=1,6&reversal=true&height=100) -->
